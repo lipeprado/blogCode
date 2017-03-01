@@ -1,0 +1,20 @@
+
+*{
+    text-decoration: none !important;
+}
+
+.container-posts{
+    background-color: rgba(241, 241, 241, 0.3);
+    border-bottom: 1px solid rgba(241, 241, 241, 0.8);
+    padding: 20px 15px;
+    margin-bottom: 20px;
+
+}
+.post-date{
+    align-self: center;
+}
+
+.post-title{
+    padding:0;
+    margin: 0;
+}
